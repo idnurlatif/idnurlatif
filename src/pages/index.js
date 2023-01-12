@@ -70,7 +70,7 @@ const moreLinks = [
     text: "Contributing",
     url: "https://www.gatsbyjs.com/contributing/",
   },
-  { text: "Issues", url: "https://github.com/gatsbyjs/gatsby/issues" },
+  { text: "Issues", url: "https://github.com/gatsbyjs/gatsby/issues" },{ text: "Gihub", url: "https://github.com/idnurlatif" },{ text: "Modern PUG", url: "https://modernpug.org/mypage/profile" },{ text: "Inflearn", url: "https://www.inflearn.com/users/@idnurlatif" },{ text: "Brunch", url: "https://brunch.co.kr/@5cc4b40bdd3f416" },{ text: "Notion", url: "https://idnurlatif.notion.site/idnurlatif/My-Blog-IDNURLATIF-6db7f2697ee343c290a020be12a75a1f" },{ text: "Futbolowo", url: "http://idnurlatif.futbolowo.pl/" },
 ]
 
 const utmParameters = `?utm_source=starter&utm_medium=start-page&utm_campaign=default-starter`
