@@ -8,6 +8,12 @@ import * as styles from "../components/index.module.css"
 
 const links = [
   {
+    text: "My Website",
+    url: "http://www.idlatif.com/",
+    description:
+      "Hello, my name is NUR LATIF. Even if you call me LATIF, you. This is a list I would like to share in the form of little notes on my blog.I took a blog with the name www.idlatif.com. This blog is only a few months off the string and needs some merchandise and hangers for the blog. Please help me build my blog.",
+  },
+  {
     text: "Tutorial",
     url: "https://www.gatsbyjs.com/docs/tutorial",
     description:
